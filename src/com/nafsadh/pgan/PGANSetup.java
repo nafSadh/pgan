@@ -895,12 +895,14 @@ public class PGANSetup {
     private static final int ALL  = 0;
     private static final int dIV  = 99;
     private static final int lvl  = 29;
-    
+    private static final int batL = 25; //battalion member level
+    private static final int btIV = 95; //battalion member IV
+
     public static void main(String[] args) {
         //printSkipSet(UPDATE_PREF);
         //printPrefInitForm();
-        printCommand();
-        //printAddToList(UPDATE_PREF);
+        //printCommand();
+        printAddToList(UPDATE_PREF);
     }
     
     //region METHODS
