@@ -898,8 +898,8 @@ public class PGANSetup {
     
     public static void main(String[] args) {
         //printSkipSet(UPDATE_PREF);
-        printPrefInitForm();
-        //printCommand();
+        //printPrefInitForm();
+        printCommand();
         //printAddToList(UPDATE_PREF);
     }
     
@@ -1009,7 +1009,8 @@ public class PGANSetup {
         List<String> pokemonSetCommands = new ArrayList<>();
         int countSpecials = 0;
         for (Pref pref : prefs) {
-            if (pref.iv != dIV && pref.level != lvl && pref.iv != -1) {
+            if ((pref.iv != dIV || pref.level != lvl)
+                    && pref.iv != skip) {
                 countSpecials++;
                 pokemonSetCommands.add(pref.getCommand());
             }
