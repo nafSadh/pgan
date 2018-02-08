@@ -407,19 +407,62 @@ public class PGANSetup {
             + "Charizard: 95%+, L23+\n"
             + "Squirtle: 95%+, L23+\n"
             + "Wartortle: 95%+, L25+\n"
+            + "Blastoise: 98%+, L29+\n"
+            + "Caterpie: 99%+, L34+\n"
+            + "Metapod: 99%+, L34+\n"
+            + "Pidgey: 99%+, L34+\n"
+            + "Pidgeotto: 99%+, L33+\n"
+            + "Pidgeot: 99%+, L32+\n"
+            + "Rattata: 99%+, L34+\n"
+            + "Raticate: 99%+, L34+\n"
+            + "Spearow: 99%+, L34+\n"
+            + "Fearow: 99%+, L33+\n"
+            + "Ekans: 99%+, L33+\n"
+            + "Arbok: 99%+, L33+\n"
             + "Pikachu: 91%+, L19+\n"
             + "Raichu: 95%+, L23+\n"
+            + "Nidoran♀: 99%+, L34+\n"
+            + "Nidoran♂: 99%+, L34+\n"
+            + "Clefairy: 99%+, L23+\n"
+            + "Clefable: 99%+, L23+\n"
+            + "Vulpix: 99%+, L33+\n"
+            + "Jigglypuff: 99%+, L34+\n"
+            + "Wigglytuff: 99%+, L33+\n"
+            + "Zubat: 99%+, L34+\n"
+            + "Golbat: 99%+, L34+\n"
+            + "Oddish: 99%+, L33+\n"
+            + "Paras: 99%+, L33+\n"
+            + "Parasect: 99%+, L31+\n"
+            + "Venonat: 99%+, L33+\n"
+            + "Venomoth: 99%+, L31+\n"
+            + "Diglett: 99%+, L31+\n"
+            + "Dugtrio: 99%+, L31+\n"
+            + "Poliwag: 99%+, L27+\n"
+            + "Poliwhirl: 99%+, L25+\n"
+            + "Poliwrath: 99%+, L23+\n"
+            + "Kadabra: 95%+, L29+\n"
             + "Alakazam: 95%+, L25+\n"
             + "Machamp: 91%+, L19+\n"
+            + "Graveler: 99%+, L25+\n"
             + "Golem: 91%+, L25+\n"
             + "Farfetch'd: All\n"
+            + "Grimer: 97%+, L29+\n"
             + "Muk: 95%+, L25+\n"
             + "Haunter: 97%+, L25+\n"
             + "Gengar: 95%+, L25+\n"
+            + "Hypno: 99%+, L25+\n"
+            + "Voltorb: 99%+, L33+\n"
+            + "Electrode: 99%+, L33+\n"
             + "Exeggutor: 91%+, L25+\n"
+            + "Hitmonlee: 99%+, L25+\n"
+            + "Hitmonchan: 99%+, L25+\n"
             + "Lickitung: 95%+, L25+\n"
             + "Rhydon: 95%+, L25+\n"
+            + "Chansey: 97%+, L29+\n"
             + "Kangaskhan: All\n"
+            + "Horsea: 99%+, L33+\n"
+            + "Goldeen: 99%+, L33+\n"
+            + "Staryu: 99%+, L33+\n"
             + "Mr. Mime: All\n"
             + "Jynx: 95%+, L25+\n"
             + "Gyarados: 87%+, L19+\n"
@@ -428,14 +471,35 @@ public class PGANSetup {
             + "Jolteon: 89%+, L25+\n"
             + "Flareon: 89%+, L25+\n"
             + "Snorlax: 88%+, L25+\n"
+            + "Dratini: 97%+, L29+\n"
             + "Dragonair: 95%+, L27+\n"
             + "Dragonite: 91%+, L19+\n"
             + "Mewtwo: All\n"
             + "Mew: All\n"
+            + "Sentret: 99%+, L33+\n"
+            + "Hoothoot: 99%+, L33+\n"
+            + "Ledyba: 99%+, L34+\n"
+            + "Ledian: 99%+, L34+\n"
+            + "Spinarak: 99%+, L34+\n"
+            + "Ariados: 99%+, L34+\n"
+            + "Natu: 99%+, L33+\n"
+            + "Ampharos: 99%+, L19+\n"
+            + "Sudowoodo: 99%+, L19+\n"
             + "Unown: All\n"
+            + "Wobbuffet: 99%+, L19+\n"
+            + "Girafarig: 99%+, L19+\n"
+            + "Dunsparce: 99%+, L19+\n"
+            + "Gligar: 99%+, L19+\n"
+            + "Qwilfish: 99%+, L19+\n"
             + "Scizor: 95%+, L25+\n"
+            + "Shuckle: 99%+, L19+\n"
+            + "Ursaring: 99%+, L19+\n"
             + "Corsola: 90%+, L19+\n"
+            + "Delibird: 99%+, L11+\n"
+            + "Phanpy: 99%+, L25+\n"
             + "Donphan: 95%+, L25+\n"
+            + "Hitmontop: 99%+, L19+\n"
+            + "Miltank: 99%+, L13+\n"
             + "Blissey: 95%+, L19+\n"
             + "Larvitar: 95%+, L25+\n"
             + "Pupitar: 93%+, L25+\n"
@@ -446,20 +510,33 @@ public class PGANSetup {
             + "Swampert: 95%+, L25+\n"
             + "Beautifly: 90%+, L19+\n"
             + "Dustox: 90%+, L19+\n"
+            + "Lotad: 99%+, L21+\n"
+            + "Lombre: 99%+, L19+\n"
+            + "Ludicolo: 99%+, L15+\n"
             + "Shiftry: 95%+, L25+\n"
             + "Gardevoir: 95%+, L25+\n"
             + "Breloom: 95%+, L25+\n"
+            + "Vigoroth: 97%+, L29+\n"
             + "Slaking: 90%+, L19+\n"
+            + "Makuhita: 99%+, L33+\n"
             + "Hariyama: 95%+, L25+\n"
+            + "Nosepass: 99%+, L33+\n"
+            + "Skitty: 99%+, L33+\n"
             + "Mawile: 88%+, L20+\n"
             + "Aggron: 95%+, L25+\n"
+            + "Roselia: 99%+, L33+\n"
             + "Carvanha: 95%+, L21+\n"
             + "Sharpedo: 95%+, L25+\n"
             + "Wailord: All\n"
             + "Trapinch: 90%+, L20+\n"
             + "Vibrava: 90%+, L20+\n"
             + "Flygon: 89%+, L19+\n"
+            + "Seviper: 99%+, L34+\n"
             + "Lunatone: 95%+, L19+\n"
+            + "Solrock: 99%+, L19+\n"
+            + "Crawdaunt: 99%+, L15+\n"
+            + "Baltoy: 99%+, L33+\n"
+            + "Claydol: 99%+, L15+\n"
             + "Lileep: 95%+, L19+\n"
             + "Cradily: 91%+, L18+\n"
             + "Milotic: 80%+, L15+\n"
@@ -616,9 +693,9 @@ public class PGANSetup {
         add(new Pref(131, 	    "Lapras", 	  95, 	  25));
         add(new Pref(132, 	     "Ditto", 	 dIV, 	 lvl));
         add(new Pref(133, 	     "Eevee", 	 dIV, 	 lvl));
-        add(new Pref(134, 	  "Vaporeon", 	  89, 	  25));
-        add(new Pref(135, 	   "Jolteon", 	  89, 	  25));
-        add(new Pref(136, 	   "Flareon", 	  89, 	  25));
+        add(new Pref(134, 	  "Vaporeon", 	  91, 	  25));
+        add(new Pref(135, 	   "Jolteon", 	  95, 	  25));
+        add(new Pref(136, 	   "Flareon", 	  95, 	  25));
         add(new Pref(137, 	   "Porygon", 	 dIV, 	 lvl));
         add(new Pref(138, 	   "Omanyte", 	 dIV, 	 lvl));
         add(new Pref(139, 	   "Omastar", 	 dIV, 	 lvl));
@@ -888,7 +965,20 @@ public class PGANSetup {
             return pokemon + (
                     (iv == 0 && level == 0) ? "" : " " + iv + " L" + level);
         }
-        
+
+        public boolean equals(Object object) {
+            if (this == object) {
+                return true;
+            }
+            if (object == null || getClass() != object.getClass()) {
+                return false;
+            }
+            Pref pref = (Pref) object;
+            return pokedex == pref.pokedex &&
+                    iv == pref.iv &&
+                    level == pref.level &&
+                    pokemon.equalsIgnoreCase(pref.pokemon);
+        }
     }
     
     private static final int skip = -1;
@@ -902,7 +992,9 @@ public class PGANSetup {
         //printSkipSet(UPDATE_PREF);
         //printPrefInitForm();
         //printCommand();
-        printAddToList(UPDATE_PREF);
+        //printAddToList(UPDATE_PREF);
+        //printAddToList(getChanged());
+        System.out.println(prepareChangeCommand(getChanged()));
     }
     
     //region METHODS
@@ -915,6 +1007,15 @@ public class PGANSetup {
                 .sorted(Comparator.comparingInt(o -> o.pokedex))
                 .collect(Collectors.toList());
         printAddToList(list);
+    }
+    
+    
+    private static List<Pref> getChanged(){
+        Map<String, Pref> existing = new HashMap<>();
+        initMap(existing);
+        interpretCurrentPref(existing);
+        List<Pref> changed = getChanged(existing, UPDATE_PREF);
+        return changed;
     }
     
     private static void initMap(Map<String, Pref> map) {
@@ -968,6 +1069,20 @@ public class PGANSetup {
         }
     }
     
+    private static List<Pref> getChanged(Map<String, Pref> existingMap, List<Pref> updatePrefs){
+        List<Pref> changes = new ArrayList<>();
+    
+        for (Pref pref : updatePrefs) {
+            Pref existingPref = existingMap.get(pref.pokemon);
+            if(!existingPref.equals(pref)){
+                changes.add(pref);
+            }
+        }
+        
+        return changes;
+    }
+    
+    
     private static void printAddToList(List<Pref> list) {
         for (Pref pref : list) {
             System.out.println(
@@ -1007,6 +1122,16 @@ public class PGANSetup {
         System.out.println(prepareCommand(UPDATE_PREF));
     }
     
+    private static String prepareChangeCommand(List<Pref> changedPrefs) {
+        List<String> pokemonSetCommands = new ArrayList<>();
+        for (Pref pref : changedPrefs) {
+            if (pref.iv != skip) {
+                pokemonSetCommands.add(pref.getCommand());
+            }
+        }
+        System.err.println("Changed:" + changedPrefs.size());
+        return "!set " + pokemonSetCommands.stream().collect(Collectors.joining(", "));
+    }
     private static String prepareCommand(List<Pref> prefs) {
         List<String> pokemonSetCommands = new ArrayList<>();
         int countSpecials = 0;
