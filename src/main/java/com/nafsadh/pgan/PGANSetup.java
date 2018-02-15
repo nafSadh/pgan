@@ -10,6 +10,15 @@ import java.util.Map;
 import java.util.Set;
 import java.util.stream.Collectors;
 
+/*
+
+     |^|
+    <|:|>
+     |.|
+
+    nafSadh Khan (ɔ) 2018; all rights reversed.
+*/
+
 public class PGANSetup {
     
     //region POKEDEX
