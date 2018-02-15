@@ -403,146 +403,104 @@ public class PGANSetup {
     
     //region EXISTING_SETUP
     private static String EXISTING_SETUP = ""
-            + "Venusaur: 95%+, L25+\n"
-            + "Charizard: 95%+, L23+\n"
-            + "Squirtle: 95%+, L23+\n"
-            + "Wartortle: 95%+, L25+\n"
-            + "Blastoise: 98%+, L29+\n"
-            + "Caterpie: 99%+, L34+\n"
-            + "Metapod: 99%+, L34+\n"
-            + "Pidgey: 99%+, L34+\n"
-            + "Pidgeotto: 99%+, L33+\n"
-            + "Pidgeot: 99%+, L32+\n"
-            + "Rattata: 99%+, L34+\n"
-            + "Raticate: 99%+, L34+\n"
-            + "Spearow: 99%+, L34+\n"
-            + "Fearow: 99%+, L33+\n"
-            + "Ekans: 99%+, L33+\n"
-            + "Arbok: 99%+, L33+\n"
-            + "Pikachu: 91%+, L19+\n"
-            + "Raichu: 95%+, L23+\n"
-            + "Nidoran♀: 99%+, L34+\n"
-            + "Nidoran♂: 99%+, L34+\n"
-            + "Clefairy: 99%+, L23+\n"
-            + "Clefable: 99%+, L23+\n"
-            + "Vulpix: 99%+, L33+\n"
-            + "Jigglypuff: 99%+, L34+\n"
-            + "Wigglytuff: 99%+, L33+\n"
-            + "Zubat: 99%+, L34+\n"
-            + "Golbat: 99%+, L34+\n"
-            + "Oddish: 99%+, L33+\n"
-            + "Paras: 99%+, L33+\n"
-            + "Parasect: 99%+, L31+\n"
-            + "Venonat: 99%+, L33+\n"
-            + "Venomoth: 99%+, L31+\n"
-            + "Diglett: 99%+, L31+\n"
-            + "Dugtrio: 99%+, L31+\n"
-            + "Poliwag: 99%+, L27+\n"
-            + "Poliwhirl: 99%+, L25+\n"
-            + "Poliwrath: 99%+, L23+\n"
-            + "Kadabra: 95%+, L29+\n"
-            + "Alakazam: 95%+, L25+\n"
-            + "Machamp: 91%+, L19+\n"
-            + "Graveler: 99%+, L25+\n"
-            + "Golem: 91%+, L25+\n"
-            + "Farfetch'd: All\n"
-            + "Grimer: 97%+, L29+\n"
-            + "Muk: 95%+, L25+\n"
-            + "Haunter: 97%+, L25+\n"
-            + "Gengar: 95%+, L25+\n"
-            + "Hypno: 99%+, L25+\n"
-            + "Voltorb: 99%+, L33+\n"
-            + "Electrode: 99%+, L33+\n"
-            + "Exeggutor: 91%+, L25+\n"
-            + "Hitmonlee: 99%+, L25+\n"
-            + "Hitmonchan: 99%+, L25+\n"
-            + "Lickitung: 95%+, L25+\n"
-            + "Rhydon: 95%+, L25+\n"
-            + "Chansey: 97%+, L29+\n"
-            + "Kangaskhan: All\n"
-            + "Horsea: 99%+, L33+\n"
-            + "Goldeen: 99%+, L33+\n"
-            + "Staryu: 99%+, L33+\n"
-            + "Mr. Mime: All\n"
-            + "Jynx: 95%+, L25+\n"
-            + "Gyarados: 87%+, L19+\n"
-            + "Lapras: 95%+, L25+\n"
-            + "Vaporeon: 89%+, L25+\n"
-            + "Jolteon: 89%+, L25+\n"
-            + "Flareon: 89%+, L25+\n"
-            + "Snorlax: 88%+, L25+\n"
-            + "Dratini: 97%+, L29+\n"
-            + "Dragonair: 95%+, L27+\n"
-            + "Dragonite: 91%+, L19+\n"
-            + "Mewtwo: All\n"
-            + "Mew: All\n"
-            + "Sentret: 99%+, L33+\n"
-            + "Hoothoot: 99%+, L33+\n"
-            + "Ledyba: 99%+, L34+\n"
-            + "Ledian: 99%+, L34+\n"
-            + "Spinarak: 99%+, L34+\n"
-            + "Ariados: 99%+, L34+\n"
-            + "Natu: 99%+, L33+\n"
-            + "Ampharos: 99%+, L19+\n"
-            + "Sudowoodo: 99%+, L19+\n"
+            + "Rattata: =100%, L35+\n"
+            + "Vulpix: 96%+, L20+\n"
+            + "Jigglypuff: 96%+, L20+\n"
+            + "Abra: 96%+, L25+\n"
+            + "Machop: 96%+, L20+\n"
+            + "Machoke: 90%+\n"
+            + "Machamp: All\n"
+            + "Bellsprout: 98%+, L30+\n"
+            + "Weepinbell: 93%+, L20+\n"
+            + "Geodude: 93%+, L25+\n"
+            + "Golem: 95%+, L25+\n"
+            + "Slowpoke: 96%+, L20+\n"
+            + "Farfetch'd: 90%+\n"
+            + "Gastly: 96%+, L30+\n"
+            + "Haunter: 98%+, L30+\n"
+            + "Gengar: 96%+\n"
+            + "Onix: 90%+\n"
+            + "Hypno: =100%\n"
+            + "Exeggcute: 96%+, L30+\n"
+            + "Rhyhorn: 93%+, L15+\n"
+            + "Chansey: All\n"
+            + "Horsea: 96%+, L20+\n"
+            + "Scyther: 93%+, L18+\n"
+            + "Jynx: 96%+, L20+\n"
+            + "Magikarp: 96%+, L20+\n"
+            + "Lapras: 90%+\n"
+            + "Eevee: 96%+, L20+\n"
+            + "Omanyte: 93%+, L15+\n"
+            + "Omastar: 90%+, L15+\n"
+            + "Dratini: 93%+\n"
+            + "Dragonair: 93%+\n"
+            + "Dragonite: All\n"
+            + "Chikorita: 96%+, L20+\n"
+            + "Mareep: 90%+, L20+\n"
+            + "Ampharos: 90%+, L20+\n"
+            + "Azumarill: 96%+, L20+\n"
+            + "Sunkern: 97%+, L30+\n"
+            + "Yanma: 95%+, L20+\n"
+            + "Murkrow: =100%, L35+\n"
             + "Unown: All\n"
-            + "Wobbuffet: 99%+, L19+\n"
-            + "Girafarig: 99%+, L19+\n"
-            + "Dunsparce: 99%+, L19+\n"
-            + "Gligar: 99%+, L19+\n"
-            + "Qwilfish: 99%+, L19+\n"
-            + "Scizor: 95%+, L25+\n"
-            + "Shuckle: 99%+, L19+\n"
-            + "Ursaring: 99%+, L19+\n"
-            + "Corsola: 90%+, L19+\n"
-            + "Delibird: 99%+, L11+\n"
-            + "Phanpy: 99%+, L25+\n"
-            + "Donphan: 95%+, L25+\n"
-            + "Hitmontop: 99%+, L19+\n"
-            + "Miltank: 99%+, L13+\n"
-            + "Blissey: 95%+, L19+\n"
-            + "Larvitar: 95%+, L25+\n"
-            + "Pupitar: 93%+, L25+\n"
-            + "Tyranitar: 90%+, L19+\n"
-            + "Celebi: All\n"
-            + "Sceptile: 95%+, L25+\n"
-            + "Blaziken: 95%+, L25+\n"
-            + "Swampert: 95%+, L25+\n"
-            + "Beautifly: 90%+, L19+\n"
-            + "Dustox: 90%+, L19+\n"
-            + "Lotad: 99%+, L21+\n"
-            + "Lombre: 99%+, L19+\n"
-            + "Ludicolo: 99%+, L15+\n"
-            + "Shiftry: 95%+, L25+\n"
-            + "Gardevoir: 95%+, L25+\n"
-            + "Breloom: 95%+, L25+\n"
-            + "Vigoroth: 97%+, L29+\n"
-            + "Slaking: 90%+, L19+\n"
-            + "Makuhita: 99%+, L33+\n"
-            + "Hariyama: 95%+, L25+\n"
-            + "Nosepass: 99%+, L33+\n"
-            + "Skitty: 99%+, L33+\n"
-            + "Mawile: 88%+, L20+\n"
-            + "Aggron: 95%+, L25+\n"
-            + "Roselia: 99%+, L33+\n"
-            + "Carvanha: 95%+, L21+\n"
-            + "Sharpedo: 95%+, L25+\n"
-            + "Wailord: All\n"
-            + "Trapinch: 90%+, L20+\n"
-            + "Vibrava: 90%+, L20+\n"
-            + "Flygon: 89%+, L19+\n"
-            + "Seviper: 99%+, L34+\n"
-            + "Lunatone: 95%+, L19+\n"
-            + "Solrock: 99%+, L19+\n"
-            + "Crawdaunt: 99%+, L15+\n"
-            + "Baltoy: 99%+, L33+\n"
-            + "Claydol: 99%+, L15+\n"
-            + "Lileep: 95%+, L19+\n"
-            + "Cradily: 91%+, L18+\n"
-            + "Milotic: 80%+, L15+\n"
-            + "Absol: 70%+, L15+\n"
-            + "Glalie: 95%+, L25+\n"
-            + "Relicanth: 10%+, L10+";
+            + "Wobbuffet: 90%+, L18+\n"
+            + "Teddiursa: 90%+, L25+\n"
+            + "Delibird: 96%+\n"
+            + "Blissey: All\n"
+            + "Larvitar: 90%+\n"
+            + "Pupitar: 90%+, L19+\n"
+            + "Treecko: 96%+, L20+\n"
+            + "Sceptile: 80%+\n"
+            + "Torchic: 95%+, L20+\n"
+            + "Mudkip: 93%+, L20+\n"
+            + "Poochyena: 96%+, L20+\n"
+            + "Zigzagoon: =100%, L30+\n"
+            + "Linoone: 93%+, L25+\n"
+            + "Wurmple: 98%+, L20+\n"
+            + "Lotad: 96%+, L20+\n"
+            + "Lombre: 95%+, L20+\n"
+            + "Seedot: 96%+, L18+\n"
+            + "Ralts: 96%+, L25+\n"
+            + "Shroomish: 93%+\n"
+            + "Breloom: 93%+\n"
+            + "Slakoth: 96%+, L20+\n"
+            + "Loudred: =100%, L30+\n"
+            + "Makuhita: 95%+, L20+\n"
+            + "Hariyama: 90%+\n"
+            + "Nosepass: 93%+, L20+\n"
+            + "Delcatty: 93%+\n"
+            + "Sableye: 95%+\n"
+            + "Aron: 93%+, L20+\n"
+            + "Aggron: 95%+, L20+\n"
+            + "Meditite: 98%+, L20+\n"
+            + "Electrike: 95%+, L25+\n"
+            + "Plusle: =100%, L20+\n"
+            + "Roselia: 96%+, L20+\n"
+            + "Gulpin: 98%+, L20+\n"
+            + "Carvanha: 95%+, L20+\n"
+            + "Wailmer: 90%+\n"
+            + "Numel: 98%+, L25+\n"
+            + "Torkoal: 90%+, L20+\n"
+            + "Trapinch: 95%+, L19+\n"
+            + "Cacnea: 96%+, L20+\n"
+            + "Cacturne: 95%+, L20+\n"
+            + "Zangoose: 90%+\n"
+            + "Seviper: 96%+, L24+\n"
+            + "Lunatone: 90%+, L20+\n"
+            + "Solrock: 93%+\n"
+            + "Barboach: 93%+, L25+\n"
+            + "Whiscash: 93%+\n"
+            + "Corphish: 96%+, L25+\n"
+            + "Crawdaunt: 90%+\n"
+            + "Baltoy: 98%+, L30+\n"
+            + "Claydol: 93%+, L20+\n"
+            + "Lileep: 96%+, L20+\n"
+            + "Cradily: 95%+, L20+\n"
+            + "Anorith: 96%+, L20+\n"
+            + "Feebas: 90%+\n"
+            + "Shuppet: 98%+, L20+\n"
+            + "Duskull: 96%+, L20+\n"
+            + "Snorunt: 93%+, L20+";
     //endregion
     
     //region SKIP_SET
@@ -560,158 +518,158 @@ public class PGANSetup {
     
     //region UPDATE_PREF
     private static List<Pref> UPDATE_PREF = new ArrayList<Pref>() {{
-        add(new Pref(  1, 	 "Bulbasaur", 	 dIV, 	 lvl));
-        add(new Pref(  2, 	   "Ivysaur", 	 dIV, 	 lvl));
-        add(new Pref(  3, 	  "Venusaur", 	  95, 	  25));
-        add(new Pref(  4, 	"Charmander", 	 dIV, 	 lvl));
-        add(new Pref(  5, 	"Charmeleon", 	 dIV, 	 lvl));
-        add(new Pref(  6, 	 "Charizard", 	  95, 	  23));
-        add(new Pref(  7, 	  "Squirtle", 	  95, 	  23));
-        add(new Pref(  8, 	 "Wartortle", 	  95, 	  25));
-        add(new Pref(  9, 	 "Blastoise", 	  98, 	 lvl));
-        add(new Pref( 10, 	  "Caterpie", 	 dIV, 	  34));
-        add(new Pref( 11, 	   "Metapod", 	 dIV, 	  34));
+        add(new Pref(  1, 	 "Bulbasaur", 	 95, 	 24));
+        add(new Pref(  2, 	   "Ivysaur", 	 95, 	 24));
+        add(new Pref(  3, 	  "Venusaur", 	 90, 	 24));
+        add(new Pref(  4, 	"Charmander", 	 93, 	 20));
+        add(new Pref(  5, 	"Charmeleon", 	 93, 	 20));
+        add(new Pref(  6, 	 "Charizard", 	 93, 	 15));
+        add(new Pref(  7, 	  "Squirtle", 	 100, 	 20));
+        add(new Pref(  8, 	 "Wartortle", 	 100, 	 20));
+        add(new Pref(  9, 	 "Blastoise", 	 95, 	 20));
+        add(new Pref( 10, 	  "Caterpie", 	 dIV, 	 lvl));
+        add(new Pref( 11, 	   "Metapod", 	 dIV, 	 lvl));
         add(new Pref( 12, 	"Butterfree", 	 dIV, 	 lvl));
         add(new Pref( 13, 	    "Weedle", 	 dIV, 	 lvl));
         add(new Pref( 14, 	    "Kakuna", 	 dIV, 	 lvl));
         add(new Pref( 15, 	  "Beedrill", 	 dIV, 	 lvl));
-        add(new Pref( 16, 	    "Pidgey", 	 dIV, 	  34));
-        add(new Pref( 17, 	 "Pidgeotto", 	 dIV, 	  33));
-        add(new Pref( 18, 	   "Pidgeot", 	 dIV, 	  32));
-        add(new Pref( 19, 	   "Rattata", 	 dIV, 	  34));
-        add(new Pref( 20, 	  "Raticate", 	 dIV, 	  34));
-        add(new Pref( 21, 	   "Spearow", 	 dIV, 	  34));
-        add(new Pref( 22, 	    "Fearow", 	 dIV, 	  33));
-        add(new Pref( 23, 	     "Ekans", 	 dIV, 	  33));
-        add(new Pref( 24, 	     "Arbok", 	 dIV, 	  33));
-        add(new Pref( 25, 	   "Pikachu", 	  91, 	  19));
-        add(new Pref( 26, 	    "Raichu", 	  95, 	  23));
-        add(new Pref( 27, 	 "Sandshrew", 	 dIV, 	 lvl));
-        add(new Pref( 28, 	 "Sandslash", 	 dIV, 	 lvl));
-        add(new Pref( 29, 	  "Nidoran♀", 	 dIV, 	  34));
+        add(new Pref( 16, 	    "Pidgey", 	 dIV, 	 lvl));
+        add(new Pref( 17, 	 "Pidgeotto", 	 dIV, 	 lvl));
+        add(new Pref( 18, 	   "Pidgeot", 	 dIV, 	 lvl));
+        add(new Pref( 19, 	   "Rattata", 	 100, 	  35));
+        add(new Pref( 20, 	  "Raticate", 	 dIV, 	 lvl));
+        add(new Pref( 21, 	   "Spearow", 	 dIV, 	 lvl));
+        add(new Pref( 22, 	    "Fearow", 	 dIV, 	 lvl));
+        add(new Pref( 23, 	     "Ekans", 	 dIV, 	 lvl));
+        add(new Pref( 24, 	     "Arbok", 	 dIV, 	 lvl));
+        add(new Pref( 25, 	   "Pikachu", 	 95, 	 25));
+        add(new Pref( 26, 	    "Raichu", 	 dIV, 	 lvl));
+        add(new Pref( 27, 	 "Sandshrew", 	 95, 	 28));
+        add(new Pref( 28, 	 "Sandslash", 	 95, 	 25));
+        add(new Pref( 29, 	  "Nidoran♀", 	 dIV, 	 lvl));
         add(new Pref( 30, 	  "Nidorina", 	 dIV, 	 lvl));
         add(new Pref( 31, 	 "Nidoqueen", 	 dIV, 	 lvl));
-        add(new Pref( 32, 	  "Nidoran♂", 	 dIV, 	  34));
+        add(new Pref( 32, 	  "Nidoran♂", 	 dIV, 	 lvl));
         add(new Pref( 33, 	  "Nidorino", 	 dIV, 	 lvl));
         add(new Pref( 34, 	  "Nidoking", 	 dIV, 	 lvl));
-        add(new Pref( 35, 	  "Clefairy", 	 dIV, 	  23));
-        add(new Pref( 36, 	  "Clefable", 	 dIV, 	  23));
-        add(new Pref( 37, 	    "Vulpix", 	 dIV, 	  33));
-        add(new Pref( 38, 	 "Ninetales", 	 dIV, 	 lvl));
-        add(new Pref( 39, 	"Jigglypuff", 	 dIV, 	  34));
-        add(new Pref( 40, 	"Wigglytuff", 	 dIV, 	  33));
-        add(new Pref( 41, 	     "Zubat", 	 dIV, 	  34));
-        add(new Pref( 42, 	    "Golbat", 	 dIV, 	  34));
-        add(new Pref( 43, 	    "Oddish", 	 dIV, 	  33));
-        add(new Pref( 44, 	     "Gloom", 	 dIV, 	 lvl));
-        add(new Pref( 45, 	 "Vileplume", 	 dIV, 	 lvl));
-        add(new Pref( 46, 	     "Paras", 	 dIV, 	  33));
-        add(new Pref( 47, 	  "Parasect", 	 dIV, 	  31));
-        add(new Pref( 48, 	   "Venonat", 	 dIV, 	  33));
-        add(new Pref( 49, 	  "Venomoth", 	 dIV, 	  31));
-        add(new Pref( 50, 	   "Diglett", 	 dIV, 	  31));
-        add(new Pref( 51, 	   "Dugtrio", 	 dIV, 	  31));
-        add(new Pref( 52, 	    "Meowth", 	 dIV, 	 lvl));
+        add(new Pref( 35, 	  "Clefairy", 	 dIV, 	 lvl));
+        add(new Pref( 36, 	  "Clefable", 	 dIV, 	 lvl));
+        add(new Pref( 37, 	    "Vulpix", 	  98, 	  20));
+        add(new Pref( 38, 	 "Ninetales", 	  95, 	  25));
+        add(new Pref( 39, 	"Jigglypuff", 	  96, 	  20));
+        add(new Pref( 40, 	"Wigglytuff", 	 dIV, 	 lvl));
+        add(new Pref( 41, 	     "Zubat", 	 dIV, 	 lvl));
+        add(new Pref( 42, 	    "Golbat", 	 dIV, 	 lvl));
+        add(new Pref( 43, 	    "Oddish", 	 100, 	 29));
+        add(new Pref( 44, 	     "Gloom", 	 100, 	 25));
+        add(new Pref( 45, 	 "Vileplume", 	  98, 	 25));
+        add(new Pref( 46, 	     "Paras", 	 100, 	 29));
+        add(new Pref( 47, 	  "Parasect", 	 dIV, 	 lvl));
+        add(new Pref( 48, 	   "Venonat", 	 100, 	 29));
+        add(new Pref( 49, 	  "Venomoth", 	 dIV, 	 lvl));
+        add(new Pref( 50, 	   "Diglett", 	 100, 	 24));
+        add(new Pref( 51, 	   "Dugtrio", 	 dIV, 	 lvl));
+        add(new Pref( 52, 	    "Meowth", 	 100, 	 29));
         add(new Pref( 53, 	   "Persian", 	 dIV, 	 lvl));
-        add(new Pref( 54, 	   "Psyduck", 	 dIV, 	 lvl));
+        add(new Pref( 54, 	   "Psyduck", 	 100, 	 29));
         add(new Pref( 55, 	   "Golduck", 	 dIV, 	 lvl));
-        add(new Pref( 56, 	    "Mankey", 	 dIV, 	 lvl));
+        add(new Pref( 56, 	    "Mankey", 	 100, 	 29));
         add(new Pref( 57, 	  "Primeape", 	 dIV, 	 lvl));
-        add(new Pref( 58, 	 "Growlithe", 	 dIV, 	 lvl));
+        add(new Pref( 58, 	 "Growlithe", 	 100, 	 29));
         add(new Pref( 59, 	  "Arcanine", 	 dIV, 	 lvl));
-        add(new Pref( 60, 	   "Poliwag", 	 dIV, 	  27));
-        add(new Pref( 61, 	 "Poliwhirl", 	 dIV, 	  25));
-        add(new Pref( 62, 	 "Poliwrath", 	 dIV, 	  23));
-        add(new Pref( 63, 	      "Abra", 	 dIV, 	 lvl));
-        add(new Pref( 64, 	   "Kadabra", 	  95, 	 lvl));
-        add(new Pref( 65, 	  "Alakazam", 	  95, 	  25));
-        add(new Pref( 66, 	    "Machop", 	 dIV, 	 lvl));
-        add(new Pref( 67, 	   "Machoke", 	 dIV, 	 lvl));
-        add(new Pref( 68, 	   "Machamp", 	  91, 	  19));
-        add(new Pref( 69, 	"Bellsprout", 	 dIV, 	 lvl));
-        add(new Pref( 70, 	"Weepinbell", 	 dIV, 	 lvl));
+        add(new Pref( 60, 	   "Poliwag", 	 dIV, 	 lvl));
+        add(new Pref( 61, 	 "Poliwhirl", 	 dIV, 	 lvl));
+        add(new Pref( 62, 	 "Poliwrath", 	 dIV, 	 lvl));
+        add(new Pref( 63, 	      "Abra", 	  96, 	  25));
+        add(new Pref( 64, 	   "Kadabra", 	  95, 	  25));
+        add(new Pref( 65, 	  "Alakazam", 	  95,     25));
+        add(new Pref( 66, 	    "Machop", 	  96, 	  20));
+        add(new Pref( 67, 	   "Machoke", 	  95,     20));
+        add(new Pref( 68, 	   "Machamp", 	+ALL, 	+ALL));
+        add(new Pref( 69, 	"Bellsprout", 	  98, 	  30));
+        add(new Pref( 70, 	"Weepinbell", 	  93, 	  20));
         add(new Pref( 71, 	"Victreebel", 	 dIV, 	 lvl));
         add(new Pref( 72, 	 "Tentacool", 	 dIV, 	 lvl));
         add(new Pref( 73, 	"Tentacruel", 	 dIV, 	 lvl));
-        add(new Pref( 74, 	   "Geodude", 	 dIV, 	 lvl));
-        add(new Pref( 75, 	  "Graveler", 	 dIV, 	  25));
-        add(new Pref( 76, 	     "Golem", 	  91, 	  25));
-        add(new Pref( 77, 	    "Ponyta", 	 dIV, 	 lvl));
-        add(new Pref( 78, 	  "Rapidash", 	 dIV, 	 lvl));
-        add(new Pref( 79, 	  "Slowpoke", 	 dIV, 	 lvl));
+        add(new Pref( 74, 	   "Geodude", 	  95, 	  25));
+        add(new Pref( 75, 	  "Graveler", 	  95, 	  25));
+        add(new Pref( 76, 	     "Golem", 	  95, 	  25));
+        add(new Pref( 77, 	    "Ponyta", 	 100, 	  25));
+        add(new Pref( 78, 	  "Rapidash", 	  95, 	  20));
+        add(new Pref( 79, 	  "Slowpoke", 	  96, 	  20));
         add(new Pref( 80, 	   "Slowbro", 	 dIV, 	 lvl));
-        add(new Pref( 81, 	 "Magnemite", 	 dIV, 	 lvl));
-        add(new Pref( 82, 	  "Magneton", 	 dIV, 	 lvl));
-        add(new Pref( 83, 	"Farfetch'd", 	+ALL, 	+ALL));
+        add(new Pref( 81, 	 "Magnemite", 	 100, 	  25));
+        add(new Pref( 82, 	  "Magneton", 	 100,  	  25));
+        add(new Pref( 83, 	"Farfetch'd", 	 dIV, 	 lvl));
         add(new Pref( 84, 	     "Doduo", 	 dIV, 	 lvl));
         add(new Pref( 85, 	    "Dodrio", 	 dIV, 	 lvl));
-        add(new Pref( 86, 	      "Seel", 	 dIV, 	 lvl));
-        add(new Pref( 87, 	   "Dewgong", 	 dIV, 	 lvl));
-        add(new Pref( 88, 	    "Grimer", 	  97, 	 lvl));
-        add(new Pref( 89, 	       "Muk", 	  95, 	  25));
-        add(new Pref( 90, 	  "Shellder", 	 dIV, 	 lvl));
-        add(new Pref( 91, 	  "Cloyster", 	 dIV, 	 lvl));
-        add(new Pref( 92, 	    "Gastly", 	 dIV, 	 lvl));
-        add(new Pref( 93, 	   "Haunter", 	  97, 	  25));
-        add(new Pref( 94, 	    "Gengar", 	  95, 	  25));
-        add(new Pref( 95, 	      "Onix", 	 dIV, 	 lvl));
-        add(new Pref( 96, 	   "Drowzee", 	 dIV, 	 lvl));
-        add(new Pref( 97, 	     "Hypno", 	 dIV, 	  25));
+        add(new Pref( 86, 	      "Seel", 	 100, 	  25));
+        add(new Pref( 87, 	   "Dewgong", 	 100, 	  25));
+        add(new Pref( 88, 	    "Grimer", 	 dIV, 	 lvl));
+        add(new Pref( 89, 	       "Muk", 	 dIV, 	 lvl));
+        add(new Pref( 90, 	  "Shellder", 	 100, 	  30));
+        add(new Pref( 91, 	  "Cloyster", 	 100, 	  25));
+        add(new Pref( 92, 	    "Gastly", 	  96, 	  30));
+        add(new Pref( 93, 	   "Haunter", 	  98, 	  30));
+        add(new Pref( 94, 	    "Gengar", 	  98, 	  25));
+        add(new Pref( 95, 	      "Onix", 	  90, 	  20));
+        add(new Pref( 96, 	   "Drowzee", 	 100, 	  25));
+        add(new Pref( 97, 	     "Hypno", 	 dIV, 	 lvl));
         add(new Pref( 98, 	    "Krabby", 	 dIV, 	 lvl));
-        add(new Pref( 99, 	   "Kingler", 	 dIV, 	 lvl));
-        add(new Pref(100, 	   "Voltorb", 	 dIV, 	  33));
-        add(new Pref(101, 	 "Electrode", 	 dIV, 	  33));
-        add(new Pref(102, 	 "Exeggcute", 	 dIV, 	 lvl));
-        add(new Pref(103, 	 "Exeggutor", 	  91, 	  25));
+        add(new Pref( 99, 	   "Kingler", 	 100, 	  29));
+        add(new Pref(100, 	   "Voltorb", 	 100, 	  25));
+        add(new Pref(101, 	 "Electrode", 	 100, 	  25));
+        add(new Pref(102, 	 "Exeggcute", 	  96, 	  30));
+        add(new Pref(103, 	 "Exeggutor", 	 dIV, 	 lvl));
         add(new Pref(104, 	    "Cubone", 	 dIV, 	 lvl));
         add(new Pref(105, 	   "Marowak", 	 dIV, 	 lvl));
-        add(new Pref(106, 	 "Hitmonlee", 	 dIV, 	  25));
-        add(new Pref(107, 	"Hitmonchan", 	 dIV, 	  25));
-        add(new Pref(108, 	 "Lickitung", 	  95, 	  25));
-        add(new Pref(109, 	   "Koffing", 	 dIV, 	 lvl));
+        add(new Pref(106, 	 "Hitmonlee", 	  95, 	  25));
+        add(new Pref(107, 	"Hitmonchan", 	  95,  	  25));
+        add(new Pref(108, 	 "Lickitung", 	  95, 	  29));
+        add(new Pref(109, 	   "Koffing", 	 100, 	  28));
         add(new Pref(110, 	   "Weezing", 	 dIV, 	 lvl));
-        add(new Pref(111, 	   "Rhyhorn", 	 dIV, 	 lvl));
-        add(new Pref(112, 	    "Rhydon", 	  95, 	  25));
-        add(new Pref(113, 	   "Chansey", 	  97, 	 lvl));
-        add(new Pref(114, 	   "Tangela", 	 dIV, 	 lvl));
-        add(new Pref(115, 	"Kangaskhan", 	+ALL, 	+ALL));
-        add(new Pref(116, 	    "Horsea", 	 dIV, 	  33));
+        add(new Pref(111, 	   "Rhyhorn", 	  93, 	  25));
+        add(new Pref(112, 	    "Rhydon", 	  95, 	  29));
+        add(new Pref(113, 	   "Chansey", 	+ALL, 	+ALL));
+        add(new Pref(114, 	   "Tangela", 	 100, 	  29));
+        add(new Pref(115, 	"Kangaskhan", 	 dIV, 	 lvl));
+        add(new Pref(116, 	    "Horsea", 	  96, 	  20));
         add(new Pref(117, 	    "Seadra", 	 dIV, 	 lvl));
-        add(new Pref(118, 	   "Goldeen", 	 dIV, 	  33));
+        add(new Pref(118, 	   "Goldeen", 	 dIV, 	 lvl));
         add(new Pref(119, 	   "Seaking", 	 dIV, 	 lvl));
-        add(new Pref(120, 	    "Staryu", 	 dIV, 	  33));
+        add(new Pref(120, 	    "Staryu", 	 dIV, 	 lvl));
         add(new Pref(121, 	   "Starmie", 	 dIV, 	 lvl));
-        add(new Pref(122, 	  "Mr. Mime", 	+ALL, 	+ALL));
-        add(new Pref(123, 	   "Scyther", 	 dIV, 	 lvl));
-        add(new Pref(124, 	      "Jynx", 	  95, 	  25));
-        add(new Pref(125, 	"Electabuzz", 	 dIV, 	 lvl));
-        add(new Pref(126, 	    "Magmar", 	 dIV, 	 lvl));
-        add(new Pref(127, 	    "Pinsir", 	 dIV, 	 lvl));
-        add(new Pref(128, 	    "Tauros", 	 dIV, 	 lvl));
-        add(new Pref(129, 	  "Magikarp", 	 dIV, 	 lvl));
-        add(new Pref(130, 	  "Gyarados", 	  87, 	  19));
-        add(new Pref(131, 	    "Lapras", 	  95, 	  25));
+        add(new Pref(122, 	  "Mr. Mime", 	 dIV, 	 lvl));
+        add(new Pref(123, 	   "Scyther", 	  93, 	  18));
+        add(new Pref(124, 	      "Jynx", 	  95, 	  20));
+        add(new Pref(125, 	"Electabuzz", 	  95, 	  29));
+        add(new Pref(126, 	    "Magmar", 	 100, 	  25));
+        add(new Pref(127, 	    "Pinsir", 	  95, 	  25));
+        add(new Pref(128, 	    "Tauros", 	 100, 	  28));
+        add(new Pref(129, 	  "Magikarp", 	  96, 	  20));
+        add(new Pref(130, 	  "Gyarados", 	  85, 	  25));
+        add(new Pref(131, 	    "Lapras", 	  90, 	  20));
         add(new Pref(132, 	     "Ditto", 	 dIV, 	 lvl));
-        add(new Pref(133, 	     "Eevee", 	 dIV, 	 lvl));
-        add(new Pref(134, 	  "Vaporeon", 	  91, 	  25));
-        add(new Pref(135, 	   "Jolteon", 	  95, 	  25));
-        add(new Pref(136, 	   "Flareon", 	  95, 	  25));
-        add(new Pref(137, 	   "Porygon", 	 dIV, 	 lvl));
-        add(new Pref(138, 	   "Omanyte", 	 dIV, 	 lvl));
-        add(new Pref(139, 	   "Omastar", 	 dIV, 	 lvl));
+        add(new Pref(133, 	     "Eevee", 	  96, 	  20));
+        add(new Pref(134, 	  "Vaporeon", 	  95, 	  20));
+        add(new Pref(135, 	   "Jolteon", 	  95, 	  20));
+        add(new Pref(136, 	   "Flareon", 	  95, 	  20));
+        add(new Pref(137, 	   "Porygon", 	  100, 	  25));
+        add(new Pref(138, 	   "Omanyte", 	  93, 	  15));
+        add(new Pref(139, 	   "Omastar", 	  90, 	  15));
         add(new Pref(140, 	    "Kabuto", 	 dIV, 	 lvl));
         add(new Pref(141, 	  "Kabutops", 	 dIV, 	 lvl));
         add(new Pref(142, 	"Aerodactyl", 	 dIV, 	 lvl));
-        add(new Pref(143, 	   "Snorlax", 	  88, 	  25));
+        add(new Pref(143, 	   "Snorlax", 	 dIV, 	 lvl));
         add(new Pref(144, 	  "Articuno", 	skip, 	skip));
         add(new Pref(145, 	    "Zapdos", 	skip, 	skip));
         add(new Pref(146, 	   "Moltres", 	skip, 	skip));
-        add(new Pref(147, 	   "Dratini", 	  97, 	 lvl));
-        add(new Pref(148, 	 "Dragonair", 	  95, 	  27));
-        add(new Pref(149, 	 "Dragonite", 	  91, 	  19));
-        add(new Pref(150, 	    "Mewtwo", 	+ALL, 	+ALL));
-        add(new Pref(151, 	       "Mew", 	+ALL, 	+ALL));
-        add(new Pref(152, 	 "Chikorita", 	 dIV, 	 lvl));
+        add(new Pref(147, 	   "Dratini", 	 dIV, 	 lvl));
+        add(new Pref(148, 	 "Dragonair", 	 dIV, 	 lvl));
+        add(new Pref(149, 	 "Dragonite", 	+ALL, 	+ALL));
+        add(new Pref(150, 	    "Mewtwo", 	 dIV, 	 lvl));
+        add(new Pref(151, 	       "Mew", 	 dIV, 	 lvl));
+        add(new Pref(152, 	 "Chikorita", 	  96, 	  20));
         add(new Pref(153, 	   "Bayleef", 	 dIV, 	 lvl));
         add(new Pref(154, 	  "Meganium", 	 dIV, 	 lvl));
         add(new Pref(155, 	 "Cyndaquil", 	 dIV, 	 lvl));
@@ -720,14 +678,14 @@ public class PGANSetup {
         add(new Pref(158, 	  "Totodile", 	 dIV, 	 lvl));
         add(new Pref(159, 	  "Croconaw", 	 dIV, 	 lvl));
         add(new Pref(160, 	"Feraligatr", 	 dIV, 	 lvl));
-        add(new Pref(161, 	   "Sentret", 	 dIV, 	  33));
+        add(new Pref(161, 	   "Sentret", 	 dIV, 	 lvl));
         add(new Pref(162, 	    "Furret", 	 dIV, 	 lvl));
-        add(new Pref(163, 	  "Hoothoot", 	 dIV, 	  33));
+        add(new Pref(163, 	  "Hoothoot", 	 dIV, 	 lvl));
         add(new Pref(164, 	   "Noctowl", 	 dIV, 	 lvl));
-        add(new Pref(165, 	    "Ledyba", 	 dIV, 	  34));
-        add(new Pref(166, 	    "Ledian", 	 dIV, 	  34));
-        add(new Pref(167, 	  "Spinarak", 	 dIV, 	  34));
-        add(new Pref(168, 	   "Ariados", 	 dIV, 	  34));
+        add(new Pref(165, 	    "Ledyba", 	 dIV, 	 lvl));
+        add(new Pref(166, 	    "Ledian", 	 dIV, 	 lvl));
+        add(new Pref(167, 	  "Spinarak", 	 dIV, 	 lvl));
+        add(new Pref(168, 	   "Ariados", 	 dIV, 	 lvl));
         add(new Pref(169, 	    "Crobat", 	 dIV, 	 lvl));
         add(new Pref(170, 	  "Chinchou", 	 dIV, 	 lvl));
         add(new Pref(171, 	   "Lanturn", 	 dIV, 	 lvl));
@@ -736,199 +694,199 @@ public class PGANSetup {
         add(new Pref(174, 	 "Igglybuff", 	 dIV, 	 lvl));
         add(new Pref(175, 	    "Togepi", 	 dIV, 	 lvl));
         add(new Pref(176, 	   "Togetic", 	 dIV, 	 lvl));
-        add(new Pref(177, 	      "Natu", 	 dIV, 	  33));
+        add(new Pref(177, 	      "Natu", 	 dIV, 	 lvl));
         add(new Pref(178, 	      "Xatu", 	 dIV, 	 lvl));
-        add(new Pref(179, 	    "Mareep", 	 dIV, 	 lvl));
+        add(new Pref(179, 	    "Mareep", 	  90, 	  20));
         add(new Pref(180, 	   "Flaaffy", 	 dIV, 	 lvl));
-        add(new Pref(181, 	  "Ampharos", 	 dIV, 	  19));
+        add(new Pref(181, 	  "Ampharos", 	  90, 	  20));
         add(new Pref(182, 	 "Bellossom", 	 dIV, 	 lvl));
         add(new Pref(183, 	    "Marill", 	 dIV, 	 lvl));
-        add(new Pref(184, 	 "Azumarill", 	 dIV, 	 lvl));
-        add(new Pref(185, 	 "Sudowoodo", 	 dIV, 	  19));
+        add(new Pref(184, 	 "Azumarill", 	  96, 	  20));
+        add(new Pref(185, 	 "Sudowoodo", 	 dIV, 	 lvl));
         add(new Pref(186, 	  "Politoed", 	 dIV, 	 lvl));
         add(new Pref(187, 	    "Hoppip", 	 dIV, 	 lvl));
         add(new Pref(188, 	  "Skiploom", 	 dIV, 	 lvl));
         add(new Pref(189, 	  "Jumpluff", 	 dIV, 	 lvl));
         add(new Pref(190, 	     "Aipom", 	 dIV, 	 lvl));
-        add(new Pref(191, 	   "Sunkern", 	 dIV, 	 lvl));
+        add(new Pref(191, 	   "Sunkern", 	  97, 	  30));
         add(new Pref(192, 	  "Sunflora", 	 dIV, 	 lvl));
-        add(new Pref(193, 	     "Yanma", 	 dIV, 	 lvl));
+        add(new Pref(193, 	     "Yanma", 	  95, 	  20));
         add(new Pref(194, 	    "Wooper", 	 dIV, 	 lvl));
         add(new Pref(195, 	  "Quagsire", 	 dIV, 	 lvl));
         add(new Pref(196, 	    "Espeon", 	 dIV, 	 lvl));
         add(new Pref(197, 	   "Umbreon", 	 dIV, 	 lvl));
-        add(new Pref(198, 	   "Murkrow", 	 dIV, 	 lvl));
+        add(new Pref(198, 	   "Murkrow", 	 100, 	  35));
         add(new Pref(199, 	  "Slowking", 	 dIV, 	 lvl));
         add(new Pref(200, 	"Misdreavus", 	 dIV, 	 lvl));
         add(new Pref(201, 	     "Unown", 	+ALL, 	+ALL));
-        add(new Pref(202, 	 "Wobbuffet", 	 dIV, 	  19));
-        add(new Pref(203, 	 "Girafarig", 	 dIV, 	  19));
+        add(new Pref(202, 	 "Wobbuffet", 	  90, 	  18));
+        add(new Pref(203, 	 "Girafarig", 	 dIV, 	 lvl));
         add(new Pref(204, 	    "Pineco", 	 dIV, 	 lvl));
         add(new Pref(205, 	"Forretress", 	 dIV, 	 lvl));
-        add(new Pref(206, 	 "Dunsparce", 	 dIV, 	  19));
-        add(new Pref(207, 	    "Gligar", 	 dIV, 	  19));
+        add(new Pref(206, 	 "Dunsparce", 	 dIV, 	 lvl));
+        add(new Pref(207, 	    "Gligar", 	 dIV, 	 lvl));
         add(new Pref(208, 	   "Steelix", 	 dIV, 	 lvl));
         add(new Pref(209, 	  "Snubbull", 	 dIV, 	 lvl));
         add(new Pref(210, 	  "Granbull", 	 dIV, 	 lvl));
-        add(new Pref(211, 	  "Qwilfish", 	 dIV, 	  19));
-        add(new Pref(212, 	    "Scizor", 	  95, 	  25));
-        add(new Pref(213, 	   "Shuckle", 	 dIV, 	  19));
+        add(new Pref(211, 	  "Qwilfish", 	 dIV, 	 lvl));
+        add(new Pref(212, 	    "Scizor", 	 dIV, 	 lvl));
+        add(new Pref(213, 	   "Shuckle", 	 dIV, 	 lvl));
         add(new Pref(214, 	 "Heracross", 	 dIV, 	 lvl));
         add(new Pref(215, 	   "Sneasel", 	 dIV, 	 lvl));
-        add(new Pref(216, 	 "Teddiursa", 	 dIV, 	 lvl));
-        add(new Pref(217, 	  "Ursaring", 	 dIV, 	  19));
+        add(new Pref(216, 	 "Teddiursa", 	  90, 	  25));
+        add(new Pref(217, 	  "Ursaring", 	 dIV, 	 lvl));
         add(new Pref(218, 	    "Slugma", 	 dIV, 	 lvl));
         add(new Pref(219, 	  "Magcargo", 	 dIV, 	 lvl));
         add(new Pref(220, 	    "Swinub", 	 dIV, 	 lvl));
         add(new Pref(221, 	 "Piloswine", 	 dIV, 	 lvl));
-        add(new Pref(222, 	   "Corsola", 	  90, 	  19));
+        add(new Pref(222, 	   "Corsola", 	 dIV, 	 lvl));
         add(new Pref(223, 	  "Remoraid", 	 dIV, 	 lvl));
         add(new Pref(224, 	 "Octillery", 	 dIV, 	 lvl));
-        add(new Pref(225, 	  "Delibird", 	 dIV, 	  11));
+        add(new Pref(225, 	  "Delibird", 	 dIV, 	 lvl));
         add(new Pref(226, 	   "Mantine", 	 dIV, 	 lvl));
         add(new Pref(227, 	  "Skarmory", 	 dIV, 	 lvl));
         add(new Pref(228, 	  "Houndour", 	 dIV, 	 lvl));
         add(new Pref(229, 	  "Houndoom", 	 dIV, 	 lvl));
         add(new Pref(230, 	   "Kingdra", 	 dIV, 	 lvl));
-        add(new Pref(231, 	    "Phanpy", 	 dIV, 	  25));
-        add(new Pref(232, 	   "Donphan", 	  95, 	  25));
+        add(new Pref(231, 	    "Phanpy", 	 dIV, 	 lvl));
+        add(new Pref(232, 	   "Donphan", 	 dIV, 	 lvl));
         add(new Pref(233, 	  "Porygon2", 	 dIV, 	 lvl));
         add(new Pref(234, 	  "Stantler", 	 dIV, 	 lvl));
         add(new Pref(235, 	  "Smeargle", 	 dIV, 	 lvl));
         add(new Pref(236, 	   "Tyrogue", 	 dIV, 	 lvl));
-        add(new Pref(237, 	 "Hitmontop", 	 dIV, 	  19));
+        add(new Pref(237, 	 "Hitmontop", 	 dIV, 	 lvl));
         add(new Pref(238, 	  "Smoochum", 	skip, 	skip));
         add(new Pref(239, 	    "Elekid", 	skip, 	skip));
         add(new Pref(240, 	     "Magby", 	skip, 	skip));
-        add(new Pref(241, 	   "Miltank", 	 dIV, 	  13));
-        add(new Pref(242, 	   "Blissey", 	  95, 	  19));
+        add(new Pref(241, 	   "Miltank", 	 dIV, 	 lvl));
+        add(new Pref(242, 	   "Blissey", 	+ALL, 	+ALL));
         add(new Pref(243, 	    "Raikou", 	skip, 	skip));
         add(new Pref(244, 	     "Entei", 	skip, 	skip));
         add(new Pref(245, 	   "Suicune", 	skip, 	skip));
-        add(new Pref(246, 	  "Larvitar", 	  95, 	  25));
-        add(new Pref(247, 	   "Pupitar", 	  93, 	  25));
-        add(new Pref(248, 	 "Tyranitar", 	  90, 	  19));
+        add(new Pref(246, 	  "Larvitar", 	 dIV, 	 lvl));
+        add(new Pref(247, 	   "Pupitar", 	  90, 	  19));
+        add(new Pref(248, 	 "Tyranitar", 	 dIV, 	 lvl));
         add(new Pref(249, 	     "Lugia", 	skip, 	skip));
         add(new Pref(250, 	     "Ho-oh", 	skip, 	skip));
-        add(new Pref(251, 	    "Celebi", 	+ALL, 	+ALL));
-        add(new Pref(252, 	   "Treecko", 	 dIV, 	 lvl));
+        add(new Pref(251, 	    "Celebi", 	 dIV, 	 lvl));
+        add(new Pref(252, 	   "Treecko", 	  96, 	  20));
         add(new Pref(253, 	   "Grovyle", 	 dIV, 	 lvl));
-        add(new Pref(254, 	  "Sceptile", 	  95, 	  25));
-        add(new Pref(255, 	   "Torchic", 	 dIV, 	 lvl));
+        add(new Pref(254, 	  "Sceptile", 	 dIV, 	 lvl));
+        add(new Pref(255, 	   "Torchic", 	  95, 	  20));
         add(new Pref(256, 	 "Combusken", 	 dIV, 	 lvl));
-        add(new Pref(257, 	  "Blaziken", 	  95, 	  25));
-        add(new Pref(258, 	    "Mudkip", 	 dIV, 	 lvl));
+        add(new Pref(257, 	  "Blaziken", 	 dIV, 	 lvl));
+        add(new Pref(258, 	    "Mudkip", 	  93, 	  20));
         add(new Pref(259, 	 "Marshtomp", 	 dIV, 	 lvl));
-        add(new Pref(260, 	  "Swampert", 	  95, 	  25));
-        add(new Pref(261, 	 "Poochyena", 	 dIV, 	 lvl));
+        add(new Pref(260, 	  "Swampert", 	 dIV, 	 lvl));
+        add(new Pref(261, 	 "Poochyena", 	  96, 	  20));
         add(new Pref(262, 	 "Mightyena", 	 dIV, 	 lvl));
-        add(new Pref(263, 	 "Zigzagoon", 	 dIV, 	 lvl));
-        add(new Pref(264, 	   "Linoone", 	 dIV, 	 lvl));
-        add(new Pref(265, 	   "Wurmple", 	 dIV, 	 lvl));
+        add(new Pref(263, 	 "Zigzagoon", 	 100, 	  30));
+        add(new Pref(264, 	   "Linoone", 	  93, 	  25));
+        add(new Pref(265, 	   "Wurmple", 	  98, 	  20));
         add(new Pref(266, 	   "Silcoon", 	 dIV, 	 lvl));
-        add(new Pref(267, 	 "Beautifly", 	  90, 	  19));
+        add(new Pref(267, 	 "Beautifly", 	 dIV, 	 lvl));
         add(new Pref(268, 	   "Cascoon", 	 dIV, 	 lvl));
-        add(new Pref(269, 	    "Dustox", 	  90, 	  19));
-        add(new Pref(270, 	     "Lotad", 	 dIV, 	  21));
-        add(new Pref(271, 	    "Lombre", 	 dIV, 	  19));
-        add(new Pref(272, 	  "Ludicolo", 	 dIV, 	  15));
-        add(new Pref(273, 	    "Seedot", 	 dIV, 	 lvl));
+        add(new Pref(269, 	    "Dustox", 	 dIV, 	 lvl));
+        add(new Pref(270, 	     "Lotad", 	  96, 	  20));
+        add(new Pref(271, 	    "Lombre", 	  95, 	  20));
+        add(new Pref(272, 	  "Ludicolo", 	 dIV, 	 lvl));
+        add(new Pref(273, 	    "Seedot", 	  96, 	  18));
         add(new Pref(274, 	   "Nuzleaf", 	 dIV, 	 lvl));
-        add(new Pref(275, 	   "Shiftry", 	  95, 	  25));
+        add(new Pref(275, 	   "Shiftry", 	 dIV, 	 lvl));
         add(new Pref(276, 	   "Taillow", 	 dIV, 	 lvl));
         add(new Pref(277, 	   "Swellow", 	 dIV, 	 lvl));
         add(new Pref(278, 	   "Wingull", 	 dIV, 	 lvl));
         add(new Pref(279, 	  "Pelipper", 	 dIV, 	 lvl));
-        add(new Pref(280, 	     "Ralts", 	 dIV, 	 lvl));
+        add(new Pref(280, 	     "Ralts", 	  96, 	  25));
         add(new Pref(281, 	    "Kirlia", 	 dIV, 	 lvl));
-        add(new Pref(282, 	 "Gardevoir", 	  95, 	  25));
+        add(new Pref(282, 	 "Gardevoir", 	 dIV, 	 lvl));
         add(new Pref(283, 	   "Surskit", 	 dIV, 	 lvl));
         add(new Pref(284, 	"Masquerain", 	 dIV, 	 lvl));
         add(new Pref(285, 	 "Shroomish", 	 dIV, 	 lvl));
-        add(new Pref(286, 	   "Breloom", 	  95, 	  25));
-        add(new Pref(287, 	   "Slakoth", 	 dIV, 	 lvl));
-        add(new Pref(288, 	  "Vigoroth", 	  97, 	 lvl));
-        add(new Pref(289, 	   "Slaking", 	  90, 	  19));
+        add(new Pref(286, 	   "Breloom", 	 dIV, 	 lvl));
+        add(new Pref(287, 	   "Slakoth", 	  96, 	  20));
+        add(new Pref(288, 	  "Vigoroth", 	 dIV, 	 lvl));
+        add(new Pref(289, 	   "Slaking", 	 dIV, 	 lvl));
         add(new Pref(290, 	   "Nincada", 	 dIV, 	 lvl));
         add(new Pref(291, 	   "Ninjask", 	 dIV, 	 lvl));
         add(new Pref(292, 	  "Shedinja", 	 dIV, 	 lvl));
         add(new Pref(293, 	   "Whismur", 	 dIV, 	 lvl));
-        add(new Pref(294, 	   "Loudred", 	 dIV, 	 lvl));
+        add(new Pref(294, 	   "Loudred", 	 100, 	  30));
         add(new Pref(295, 	   "Exploud", 	 dIV, 	 lvl));
-        add(new Pref(296, 	  "Makuhita", 	 dIV, 	  33));
-        add(new Pref(297, 	  "Hariyama", 	  95, 	  25));
+        add(new Pref(296, 	  "Makuhita", 	  95, 	  20));
+        add(new Pref(297, 	  "Hariyama", 	 dIV, 	 lvl));
         add(new Pref(298, 	   "Azurill", 	skip, 	skip));
-        add(new Pref(299, 	  "Nosepass", 	 dIV, 	  33));
-        add(new Pref(300, 	    "Skitty", 	 dIV, 	  33));
+        add(new Pref(299, 	  "Nosepass", 	  93, 	  20));
+        add(new Pref(300, 	    "Skitty", 	 dIV, 	 lvl));
         add(new Pref(301, 	  "Delcatty", 	 dIV, 	 lvl));
         add(new Pref(302, 	   "Sableye", 	 dIV, 	 lvl));
-        add(new Pref(303, 	    "Mawile", 	  88, 	  20));
-        add(new Pref(304, 	      "Aron", 	 dIV, 	 lvl));
+        add(new Pref(303, 	    "Mawile", 	 dIV, 	 lvl));
+        add(new Pref(304, 	      "Aron", 	  93, 	  20));
         add(new Pref(305, 	    "Lairon", 	 dIV, 	 lvl));
-        add(new Pref(306, 	    "Aggron", 	  95, 	  25));
-        add(new Pref(307, 	  "Meditite", 	 dIV, 	 lvl));
+        add(new Pref(306, 	    "Aggron", 	  95, 	  20));
+        add(new Pref(307, 	  "Meditite", 	  98, 	  20));
         add(new Pref(308, 	  "Medicham", 	 dIV, 	 lvl));
-        add(new Pref(309, 	 "Electrike", 	 dIV, 	 lvl));
+        add(new Pref(309, 	 "Electrike", 	  95, 	  25));
         add(new Pref(310, 	 "Manectric", 	 dIV, 	 lvl));
-        add(new Pref(311, 	    "Plusle", 	 dIV, 	 lvl));
+        add(new Pref(311, 	    "Plusle", 	 100, 	  20));
         add(new Pref(312, 	     "Minun", 	 dIV, 	 lvl));
         add(new Pref(313, 	   "Volbeat", 	 dIV, 	 lvl));
         add(new Pref(314, 	  "Illumise", 	 dIV, 	 lvl));
-        add(new Pref(315, 	   "Roselia", 	 dIV, 	  33));
-        add(new Pref(316, 	    "Gulpin", 	 dIV, 	 lvl));
+        add(new Pref(315, 	   "Roselia", 	  96, 	  20));
+        add(new Pref(316, 	    "Gulpin", 	  98, 	  20));
         add(new Pref(317, 	    "Swalot", 	 dIV, 	 lvl));
-        add(new Pref(318, 	  "Carvanha", 	  95, 	  21));
-        add(new Pref(319, 	  "Sharpedo", 	  95, 	  25));
+        add(new Pref(318, 	  "Carvanha", 	  95, 	  20));
+        add(new Pref(319, 	  "Sharpedo", 	 dIV, 	 lvl));
         add(new Pref(320, 	   "Wailmer", 	 dIV, 	 lvl));
-        add(new Pref(321, 	   "Wailord", 	+ALL, 	+ALL));
-        add(new Pref(322, 	     "Numel", 	 dIV, 	 lvl));
+        add(new Pref(321, 	   "Wailord", 	 dIV, 	 lvl));
+        add(new Pref(322, 	     "Numel", 	  98, 	  25));
         add(new Pref(323, 	  "Camerupt", 	 dIV, 	 lvl));
-        add(new Pref(324, 	   "Torkoal", 	 dIV, 	 lvl));
+        add(new Pref(324, 	   "Torkoal", 	  90, 	  20));
         add(new Pref(325, 	    "Spoink", 	 dIV, 	 lvl));
         add(new Pref(326, 	   "Grumpig", 	 dIV, 	 lvl));
         add(new Pref(327, 	    "Spinda", 	 dIV, 	 lvl));
-        add(new Pref(328, 	  "Trapinch", 	  90, 	  20));
-        add(new Pref(329, 	   "Vibrava", 	  90, 	  20));
-        add(new Pref(330, 	    "Flygon", 	  89, 	  19));
-        add(new Pref(331, 	    "Cacnea", 	 dIV, 	 lvl));
-        add(new Pref(332, 	  "Cacturne", 	 dIV, 	 lvl));
+        add(new Pref(328, 	  "Trapinch", 	  95, 	  19));
+        add(new Pref(329, 	   "Vibrava", 	 dIV, 	 lvl));
+        add(new Pref(330, 	    "Flygon", 	 dIV, 	 lvl));
+        add(new Pref(331, 	    "Cacnea", 	  96, 	  20));
+        add(new Pref(332, 	  "Cacturne", 	  95, 	  20));
         add(new Pref(333, 	    "Swablu", 	 dIV, 	 lvl));
         add(new Pref(334, 	   "Altaria", 	 dIV, 	 lvl));
         add(new Pref(335, 	  "Zangoose", 	 dIV, 	 lvl));
-        add(new Pref(336, 	   "Seviper", 	 dIV, 	  34));
-        add(new Pref(337, 	  "Lunatone", 	  95, 	  19));
-        add(new Pref(338, 	   "Solrock", 	 dIV, 	  19));
-        add(new Pref(339, 	  "Barboach", 	 dIV, 	 lvl));
+        add(new Pref(336, 	   "Seviper", 	  96, 	  24));
+        add(new Pref(337, 	  "Lunatone", 	  90, 	  20));
+        add(new Pref(338, 	   "Solrock", 	 dIV, 	 lvl));
+        add(new Pref(339, 	  "Barboach", 	  93, 	  25));
         add(new Pref(340, 	  "Whiscash", 	 dIV, 	 lvl));
-        add(new Pref(341, 	  "Corphish", 	 dIV, 	 lvl));
-        add(new Pref(342, 	 "Crawdaunt", 	 dIV, 	  15));
-        add(new Pref(343, 	    "Baltoy", 	 dIV, 	  33));
-        add(new Pref(344, 	   "Claydol", 	 dIV, 	  15));
-        add(new Pref(345, 	    "Lileep", 	  95, 	  19));
-        add(new Pref(346, 	   "Cradily", 	  91, 	  18));
-        add(new Pref(347, 	   "Anorith", 	 dIV, 	 lvl));
+        add(new Pref(341, 	  "Corphish", 	  96, 	  25));
+        add(new Pref(342, 	 "Crawdaunt", 	 dIV, 	 lvl));
+        add(new Pref(343, 	    "Baltoy", 	  98, 	  30));
+        add(new Pref(344, 	   "Claydol", 	  93, 	  20));
+        add(new Pref(345, 	    "Lileep", 	  96, 	  20));
+        add(new Pref(346, 	   "Cradily", 	  95, 	  20));
+        add(new Pref(347, 	   "Anorith", 	  96, 	  20));
         add(new Pref(348, 	   "Armaldo", 	 dIV, 	 lvl));
         add(new Pref(349, 	    "Feebas", 	 dIV, 	 lvl));
-        add(new Pref(350, 	   "Milotic", 	  80, 	  15));
+        add(new Pref(350, 	   "Milotic", 	 dIV, 	 lvl));
         add(new Pref(351, 	  "Castform", 	 dIV, 	 lvl));
         add(new Pref(352, 	   "Kecleon", 	 dIV, 	 lvl));
-        add(new Pref(353, 	   "Shuppet", 	 dIV, 	 lvl));
+        add(new Pref(353, 	   "Shuppet", 	  98, 	  20));
         add(new Pref(354, 	   "Banette", 	 dIV, 	 lvl));
-        add(new Pref(355, 	   "Duskull", 	 dIV, 	 lvl));
+        add(new Pref(355, 	   "Duskull", 	  96, 	  20));
         add(new Pref(356, 	  "Dusclops", 	 dIV, 	 lvl));
         add(new Pref(357, 	   "Tropius", 	 dIV, 	 lvl));
         add(new Pref(358, 	  "Chimecho", 	 dIV, 	 lvl));
-        add(new Pref(359, 	     "Absol", 	  70, 	  15));
+        add(new Pref(359, 	     "Absol", 	 dIV, 	 lvl));
         add(new Pref(360, 	    "Wynaut", 	 dIV, 	 lvl));
-        add(new Pref(361, 	   "Snorunt", 	 dIV, 	 lvl));
-        add(new Pref(362, 	    "Glalie", 	  95, 	  25));
+        add(new Pref(361, 	   "Snorunt", 	  93, 	  20));
+        add(new Pref(362, 	    "Glalie", 	 dIV, 	 lvl));
         add(new Pref(363, 	    "Spheal", 	 dIV, 	 lvl));
         add(new Pref(364, 	    "Sealeo", 	 dIV, 	 lvl));
         add(new Pref(365, 	   "Walrein", 	 dIV, 	 lvl));
         add(new Pref(366, 	  "Clamperl", 	 dIV, 	 lvl));
         add(new Pref(367, 	   "Huntail", 	 dIV, 	 lvl));
         add(new Pref(368, 	  "Gorebyss", 	 dIV, 	 lvl));
-        add(new Pref(369, 	 "Relicanth", 	  10, 	  10));
+        add(new Pref(369, 	 "Relicanth", 	 dIV, 	 lvl));
         add(new Pref(370, 	   "Luvdisc", 	 dIV, 	 lvl));
         add(new Pref(371, 	     "Bagon", 	 dIV, 	 lvl));
         add(new Pref(372, 	   "Shelgon", 	 dIV, 	 lvl));
@@ -990,11 +948,11 @@ public class PGANSetup {
 
     public static void main(String[] args) {
         //printSkipSet(UPDATE_PREF);
-        //printPrefInitForm();
+        printPrefInitForm();
         //printCommand();
         //printAddToList(UPDATE_PREF);
         //printAddToList(getChanged());
-        System.out.println(prepareChangeCommand(getChanged()));
+        //System.out.println(prepareChangeCommand(getChanged()));
     }
     
     //region METHODS
@@ -1057,7 +1015,7 @@ public class PGANSetup {
                         if (ivl.length != 2) {
                             System.err.println("Bad IV/Level in " + pokemon);
                         } else {
-                            String ivStr = ivl[0].trim().replace("%", "").replace("+", "");
+                            String ivStr = ivl[0].trim().replace("%", "").replace("+", "").replace("=","" );
                             pref.iv = Integer.parseInt(ivStr);
                             String lvlStr = ivl[1].trim().replace("L", "").replace("+", "");
                             pref.level = Integer.parseInt(lvlStr);
