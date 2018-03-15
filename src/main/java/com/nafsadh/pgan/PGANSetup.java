@@ -10,6 +10,15 @@ import java.util.Map;
 import java.util.Set;
 import java.util.stream.Collectors;
 
+/*
+
+     |^|
+    <|:|>
+     |.|
+
+    nafSadh Khan (ɔ) 2018; all rights reversed.
+*/
+
 public class PGANSetup {
     
     //region POKEDEX
@@ -1064,7 +1073,7 @@ public class PGANSetup {
                         if (ivl.length != 2) {
                             System.err.println("Bad IV/Level in " + pokemon);
                         } else {
-                            String ivStr = ivl[0].trim().replace("%", "").replace("+", "");
+                            String ivStr = ivl[0].trim().replace("%", "").replace("+", "").replace("=","" );
                             pref.iv = Integer.parseInt(ivStr);
                             String lvlStr = ivl[1].trim().replace("L", "").replace("+", "");
                             pref.level = Integer.parseInt(lvlStr);
